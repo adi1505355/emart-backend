@@ -1,9 +1,9 @@
 # emart-backend
-backend code base for the ecommerce-webapp
+Backend code base for the ecommerce-webapp
 
 Link for the frontend codebase : https://github.com/adi1505355/emart-frontend
 
-Descrption : Repository for the backend code base for a e-commerce web application. 
+Description : Repository for the backend code base for a e-commerce web application. 
 Important directories : 
 1. /server.js : Serves all the API resquests incoming to the server
 2. /connection.js : Containes the connection details to the Mongo Database Server
