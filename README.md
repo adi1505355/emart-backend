@@ -1,5 +1,5 @@
 # emart-backend
-backend code base for the ecommerce webapp
+backend code base for the ecommerce-webapp
 
 Link for the frontend codebase : https://github.com/adi1505355/emart-frontend
 
